@@ -210,9 +210,9 @@ You can add add additional attributes to input elements like:
 - `required` - makes the input required, so the form can not be submitted until the input is not filled.
 - `maxlength` - limits the number of characters you can write in the input.
 
-# A list to all HTML elements
+# Learn more
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[List of all HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 # Homework
 
