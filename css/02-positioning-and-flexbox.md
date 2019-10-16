@@ -149,15 +149,12 @@ A sticky element toggles between `relative` and `fixed`, depending on the scroll
 
 # Flexbox
 
-# CSS Flexbox
-
 To better understand flexbox you can read the following articles:
 
 - [Flexbox on W3Schools](https://www.w3schools.com/css/css3_flexbox.asp)
 - [Flexbox on CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [About `flex-grow` and `flex-shrink`](https://medium.com/@tiffnogueira/understanding-flex-shrink-flex-grow-and-flex-basis-and-using-these-properties-to-their-full-e4b4afd2c930)
 
-To exercise your flexbox skills complete all levels of [this game](https://flexboxfroggy.com).
 Today, we will cover the following css properties:
 
 ### Container elements
@@ -177,3 +174,13 @@ Today, we will cover the following css properties:
 - `flex-basis`
 - `flex` - shorthand property for `flex-grow`, `flex-shrink`, and `flex-basis`
 - `align-self`
+
+# Homework
+
+Name your folder: `tema-03`.
+
+## Part 1
+Exercise your flexbox skills, and complete all levels of [this game](https://flexboxfroggy.com).
+
+## Part 2
+Implement the following layout using flexbox: https://scene.zeplin.io/project/5d9104d9b6c1b6025612e5b5/screen/5d9ee7cbdb5981302764c303.
