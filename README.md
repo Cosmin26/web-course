@@ -13,3 +13,4 @@
 ## JS
 
 - [Getting started with JS](./js/01-getting-started-with-javascript.md)
+- [Loops and iterations](./js/02-loops-and-iterations.md)
