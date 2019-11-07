@@ -77,8 +77,9 @@ console.log(doubledNumbers);
 ```
 
 > **Let's code together**
-> Write a function that takes a list of names, and returns another list only with the names having more than 4 characters.
-> Write a function that generates 6 lotto numbers, but it makes sure there are no duplicates.
+> 1. Write a function that takes a list of names, and returns another list only with the names having more than 4 characters.
+>
+> 2. Write a function that generates 6 lotto numbers, but it makes sure there are no duplicates.
 
 # Objects
 
