@@ -255,3 +255,30 @@ snickers.bark();
  > Then implement a `Student` class that extends `Person` but also has the properties: `year`, `university`, `courses[]` and the method `learn`.
  > Also implement a `Teacher` class that extends `Person` with the properties: `yearsOfExperience`, `university`, `courses` and the method `teach`.
  > Create multiple students and techers using the classes implemented.
+ 
+ 
+ 
+# Homework
+
+### Basic challenge
+Write a function that take a single argument, which is an array. The function will return another array, with the same elements, but in a reverse order.
+
+For example, given the array `[1, 2, 3, 4, 5]` the function will return `[5, 4, 3, 2, 1]`
+
+Nice to have: Solve this problem using `reduce`.
+
+### Hard challenge
+
+Write a function which returns the number of `days`, `hours`, `minutes` and `seconds` until next year.
+The function will not get any arguments, but will use the exact current date and will return an object like: 
+
+```js
+{
+  days: 38,
+  hours: 19,
+  minutes: 31,
+  seconds: 8
+}
+```
+
+To learn more about how to work with the `Date` class in Javascript, please follow this link: https://www.w3schools.com/js/js_dates.asp.
