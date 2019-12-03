@@ -216,4 +216,4 @@ You can add add additional attributes to input elements like:
 
 # Homework
 
-No homework for the next course.
+Create a table with two columns: `month` and `balance`, and for each month of the year create a row with the name of the month (e.g. `January`) and the current balance (e.g. `$100`). Use any random values for balances.
