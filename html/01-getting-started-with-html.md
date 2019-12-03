@@ -1,9 +1,5 @@
 # Getting started with HTML
 
-## Tooling
-
-[Download Visual Studio Code](https://code.visualstudio.com/download).
-
 ## Typography
 
 ```html
