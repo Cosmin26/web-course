@@ -199,13 +199,6 @@ You can use a file from here: https://s3.amazonaws.com/web-development-course-st
 </html>
 ```
 
-You can add add additional attributes to input elements like:
-
-- `disabled` - makes the input disabled, meaning you can not interact with it.
-- `readonly` - makes the input read-only, meaning you can not write on it.
-- `required` - makes the input required, so the form can not be submitted until the input is not filled.
-- `maxlength` - limits the number of characters you can write in the input.
-
 # Learn more
 
 [List of all HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
