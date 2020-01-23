@@ -21,3 +21,7 @@
 - [Loops and iterations](./js/02-loops-and-iterations.md)
 - [Arrays and objects](./js/03-working-with-arrays-and-objects.md)
 - [Ecmascript 6 features](./js/04-ecmascript-6-features.md)
+
+## MySQL
+
+- [Getting started with MySQL](./mysql/01-getting-started-with-mysql)
