@@ -24,4 +24,4 @@
 
 ## MySQL
 
-- [Getting started with MySQL](./mysql/01-getting-started-with-mysql)
+- [Getting started with MySQL](./mysql/01-getting-started-with-mysql.md)
