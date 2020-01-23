@@ -177,7 +177,7 @@ Today, we will cover the following css properties:
 
 # Homework
 
-Name your folder: `tema-03`.
+Name your folder: `homework-03`.
 
 ## Part 1
 Exercise your flexbox skills, and complete all levels of [this game](https://flexboxfroggy.com).
