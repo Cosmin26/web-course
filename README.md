@@ -22,6 +22,9 @@
 - [Arrays and objects](./js/03-working-with-arrays-and-objects.md)
 - [Ecmascript 6 features](./js/04-ecmascript-6-features.md)
 
+## React
+- [Introduction to React](https://react-workshop.tamaspap.com/introducing-jsx)
+
 ## MySQL
 
 - [Getting started with MySQL](./mysql/01-getting-started-with-mysql.md)
