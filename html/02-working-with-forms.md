@@ -5,28 +5,54 @@
   <fieldset>
     <legend>Profile</legend>
 
-    <label>First name</label>
-    <input type="text" name="firstName" placeholder="Your first name" />
+    <label for="firstName">First name</label>
+    <input
+      type="text"
+      id="firstName"
+      name="firstName"
+      placeholder="Your first name"
+    />
 
-    <label>Last name</label>
-    <input type="text" name="lastName" placeholder="Your last name" />
+    <label for="lastName">Last name</label>
+    <input
+      type="text"
+      id="lastName"
+      name="lastName"
+      placeholder="Your last name"
+    />
 
-    <label>Email</label>
-    <input type="email" name="email" placeholder="Your email" />
+    <label for="email">Email</label>
+    <input type="email" name="email" id="email" placeholder="Your email" />
 
-    <label>Password</label>
-    <input type="password" name="password" placeholder="Your password" />
+    <label for="password">Password</label>
+    <input
+      type="password"
+      name="password"
+      id="password"
+      placeholder="Your password"
+    />
 
-    <label>Gender</label>
-    <select name="gender">
+    <label for="favoriteColor">Favorite color</label>
+    <input type="color" name="favoriteColor" id="favoriteColor" />
+
+    <label for="avatar">Avatar picture</label>
+    <input type="file" name="avatar" id="avatar" />
+
+    <label for="income">Monthly income</label>
+    <input type="range" id="income" name="income" min="0" max="10000" />
+
+    <label for="gender">Gender</label>
+    <select name="gender" id="gender">
       <option value="male">Male</option>
       <option value="female">Female</option>
+      <option value="other">Other</option>
     </select>
 
-    <label>Kids</label>
+    <label for="kids">Kids</label>
     <input
       type="number"
       name="kids"
+      id="kids"
       placeholder="How many kids you have?"
       min="0"
     />
@@ -44,10 +70,16 @@
 
   <fieldset>
     <legend>About yourself</legend>
-    <textarea rows="10" cols="100"></textarea>
+    <label for="bio">Short bio</label>
+    <textarea name="bio" id="bio" rows="10" cols="100"></textarea>
   </fieldset>
 </form>
 ```
+
+### Code together
+
+Implement a form for sending emails, having the following inputs: `fromName`, `toEmail`, `subject`, `message`.
+The form's action should be the following url: `https://18z9lalk4f.execute-api.us-east-1.amazonaws.com/dev/email/send`.
 
 # Homework
 
