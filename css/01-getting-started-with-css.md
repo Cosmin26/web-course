@@ -336,6 +336,6 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 # Homework
 
-Implement the following design with HTML and CSS: [https://scene.zeplin.io/project/5d9104d9b6c1b6025612e5b5](https://scene.zeplin.io/project/5d9104d9b6c1b6025612e5b5).
+Implement the following design with HTML and CSS: [https://scene.zeplin.io/project/5d9104d9b6c1b6025612e5b5/screen/5d91050846a638025ce4c051](https://scene.zeplin.io/project/5d9104d9b6c1b6025612e5b5/screen/5d91050846a638025ce4c051).
 
 Attention to detail is very important. Use Zeplin to get all the CSS values you need.
