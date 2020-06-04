@@ -26,8 +26,16 @@ while (i < 10) {
 ```
 
 > **Let's code together**
+> Write a function that lists all elements from an array
+>
+> Write a function that adds up all elements from an array
+>
 > Write a function that finds the lowest element from an array of numbers.
+>
+> Write a function that accepts an array as an argument, and returns two arrays: one with the odd numbers, and one with the even numbers.
+>
 > Write a function that accepts a number and returns `true` if the number is a prime number, otherwise it returns `false`.
+>
 > Write a function that lists the first `n` prime numbers.
 
 # Homework
