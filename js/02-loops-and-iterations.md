@@ -64,6 +64,6 @@ As a final step the function will write the the console the winner of the game, 
 
 **Note** If you are a Big-Bang theory fan and you are in the mood, implement: `Rock, Paper, Scrissor, Lizard, Spock`. Here is how it works: https://www.youtube.com/watch?v=x5Q6-wMx-K8
 
-#### Find the first N prime numbers**
+#### Find the first N prime numbers
 Write a function that gets a single argument `n`, and writes to the console the first `n` prime numbers. 
 For example: for `n=5` it will write the first 5 prime numbers to the console: `1, 2, 3, 5, 7`.
