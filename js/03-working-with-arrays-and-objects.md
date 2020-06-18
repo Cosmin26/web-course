@@ -64,8 +64,8 @@ console.log(numbers);
 
 ```js
 var numbers = [-1, 2, 9, -5, 3];
-var positionNumbers = numbers.filter(number => number > 0);
-console.log(positionNumbers);
+var positive = numbers.filter(number => number > 0);
+console.log(positive);
 ```
 
 ### Mapping arrays
