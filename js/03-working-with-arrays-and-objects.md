@@ -88,7 +88,7 @@ To learn more about this topics visit the following links:
 - [JS Objects loop - W3Schools](https://www.w3schools.com/js/js_objects.asp)
 - [JS Objects - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
-### Defininf object properties
+### Defining object properties
 
 ```js
 var car = {
